@@ -1,7 +1,7 @@
-﻿using LearnTop.Shared.Application.EventBus;
+﻿using JaPark.Shared.Application.EventBus;
 using MassTransit;
 
-namespace LearnTop.Shared.Infrastructure.EventBus;
+namespace JaPark.Shared.Infrastructure.EventBus;
 
 internal sealed class EventBus(IBus bus) : IEventBus
 {

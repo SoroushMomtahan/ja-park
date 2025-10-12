@@ -1,10 +1,11 @@
-﻿using LearnTop.Shared.Domain;
-using LearnTop.Shared.Infrastructure.Serialization;
+﻿using JaPark.Shared.Domain.Events;
+using JaPark.Shared.Domain.Objects;
+using JaPark.Shared.Infrastructure.Serialization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
 using Newtonsoft.Json;
 
-namespace LearnTop.Shared.Infrastructure.Outbox;
+namespace JaPark.Shared.Infrastructure.Outbox;
 
 public class InsertOutboxMessageInterceptor
     : SaveChangesInterceptor

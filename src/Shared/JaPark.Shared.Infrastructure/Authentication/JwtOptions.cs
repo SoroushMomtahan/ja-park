@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Infrastructure.Authentication;
+﻿namespace JaPark.Shared.Infrastructure.Authentication;
 
 public class JwtOptions
 {

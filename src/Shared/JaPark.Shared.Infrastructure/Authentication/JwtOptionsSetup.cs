@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 
-namespace LearnTop.Shared.Infrastructure.Authentication;
+namespace JaPark.Shared.Infrastructure.Authentication;
 
 internal sealed class JwtOptionsSetup(IConfiguration configuration) : IConfigureOptions<JwtOptions>
 {

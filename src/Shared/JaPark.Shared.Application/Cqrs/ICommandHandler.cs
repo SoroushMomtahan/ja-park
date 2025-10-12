@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Application.Cqrs;
+﻿namespace JaPark.Shared.Application.Cqrs;
 
 public interface ICommandHandler<in TCommand, TResponse> : IRequestHandler<TCommand, Result<TResponse>>
     where TCommand : ICommand<TResponse>

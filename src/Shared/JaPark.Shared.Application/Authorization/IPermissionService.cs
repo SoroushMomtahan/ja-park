@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Application.Authorization;
+﻿namespace JaPark.Shared.Application.Authorization;
 
 public interface IPermissionService
 {

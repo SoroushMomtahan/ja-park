@@ -1,9 +1,9 @@
 ﻿using System.Buffers;
 using System.Text.Json;
-using LearnTop.Shared.Application.Caching;
+using JaPark.Shared.Application.Caching;
 using Microsoft.Extensions.Caching.Distributed;
 
-namespace LearnTop.Shared.Infrastructure.Caching;
+namespace JaPark.Shared.Infrastructure.Caching;
 
 internal sealed class CacheService(IDistributedCache cache) : ICacheService
 {

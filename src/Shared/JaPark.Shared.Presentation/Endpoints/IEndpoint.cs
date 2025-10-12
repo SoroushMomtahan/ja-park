@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Routing;
 
-namespace LearnTop.Shared.Presentation.Endpoints;
+namespace JaPark.Shared.Presentation.Endpoints;
 
 public interface IEndpoint
 {

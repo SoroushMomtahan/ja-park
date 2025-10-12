@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Infrastructure.Outbox;
+﻿namespace JaPark.Shared.Infrastructure.Outbox;
 
 public class OutboxMessage
 {

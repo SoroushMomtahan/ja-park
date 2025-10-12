@@ -1,9 +1,9 @@
 ﻿using System.Reflection;
 using FluentValidation;
-using LearnTop.Shared.Application.Behaviors;
+using JaPark.Shared.Application.Behaviors;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace LearnTop.Shared.Application;
+namespace JaPark.Shared.Application;
 
 public static class ApplicationConfiguration
 {

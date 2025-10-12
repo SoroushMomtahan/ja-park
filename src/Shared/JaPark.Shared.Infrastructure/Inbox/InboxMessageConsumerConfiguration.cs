@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace LearnTop.Shared.Infrastructure.Inbox;
+namespace JaPark.Shared.Infrastructure.Inbox;
 
 public sealed class InboxMessageConsumerConfiguration : IEntityTypeConfiguration<InboxMessageConsumer>  
 {  

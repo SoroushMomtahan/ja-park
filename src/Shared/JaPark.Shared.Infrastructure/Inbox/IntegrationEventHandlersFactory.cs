@@ -1,9 +1,9 @@
 ﻿using System.Collections.Concurrent;
 using System.Reflection;
-using LearnTop.Shared.Application.EventBus;
+using JaPark.Shared.Application.EventBus;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace LearnTop.Shared.Infrastructure.Inbox;
+namespace JaPark.Shared.Infrastructure.Inbox;
 
 public static class IntegrationEventHandlersFactory
 {

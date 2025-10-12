@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.Extensions.Options;
 
-namespace LearnTop.Shared.Infrastructure.Authorization;
+namespace JaPark.Shared.Infrastructure.Authorization;
 
 internal sealed class PermissionAuthorizationPolicyProvider(IOptions<AuthorizationOptions> options)
     : DefaultAuthorizationPolicyProvider(options)

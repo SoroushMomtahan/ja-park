@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace LearnTop.Shared.Infrastructure.Serialization;
+namespace JaPark.Shared.Infrastructure.Serialization;
 
 public static class SerializerSettings
 {

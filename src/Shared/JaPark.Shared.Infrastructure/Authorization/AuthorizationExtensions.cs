@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace LearnTop.Shared.Infrastructure.Authorization;
+namespace JaPark.Shared.Infrastructure.Authorization;
 
 internal static class AuthorizationExtensions
 {

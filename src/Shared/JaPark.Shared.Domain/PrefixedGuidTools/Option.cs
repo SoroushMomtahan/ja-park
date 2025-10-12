@@ -1,4 +1,4 @@
-﻿namespace JaPark.Shared.Domain;
+﻿namespace JaPark.Shared.Domain.PrefixedGuidTools;
 
 public readonly struct Option<T> where T : class
 {

@@ -1,9 +1,9 @@
 ﻿using System.Security.Claims;
-using LearnTop.Shared.Application.Authorization;
+using JaPark.Shared.Application.Authorization;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace LearnTop.Shared.Infrastructure.Authorization;
+namespace JaPark.Shared.Infrastructure.Authorization;
 
 internal sealed class PermissionAuthorizationHandler(IServiceScopeFactory serviceScopeFactory) : AuthorizationHandler<PermissionRequirement>
 {

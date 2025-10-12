@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-
-namespace LearnTop.Shared.Presentation.ApiResults;
+﻿namespace JaPark.Shared.Presentation.ApiResults;
 
 public static class ApiResults
 {

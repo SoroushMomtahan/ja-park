@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 
-namespace LearnTop.Shared.Presentation.Endpoints;
+namespace JaPark.Shared.Presentation.Endpoints;
 
 public static class EndpointExtensions
 {

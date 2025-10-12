@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Caching.Distributed;
 
-namespace LearnTop.Shared.Infrastructure.Caching;
+namespace JaPark.Shared.Infrastructure.Caching;
 
 public static class CacheOptions
 {

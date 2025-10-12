@@ -1,9 +1,9 @@
 ﻿using System.Collections.Concurrent;
 using System.Reflection;
-using LearnTop.Shared.Application.Messaging;
+using JaPark.Shared.Application.Messaging;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace LearnTop.Shared.Infrastructure.Outbox;
+namespace JaPark.Shared.Infrastructure.Outbox;
 
 public static class DomainEventHandlersFactory
 {

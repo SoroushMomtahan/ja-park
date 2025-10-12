@@ -1,17 +1,17 @@
-﻿using LearnTop.Shared.Application.Caching;
-using LearnTop.Shared.Application.EventBus;
-using LearnTop.Shared.Infrastructure.Authentication;
-using LearnTop.Shared.Infrastructure.Authorization;
-using LearnTop.Shared.Infrastructure.Caching;
-using LearnTop.Shared.Infrastructure.Outbox;
-using LearnTop.Shared.ServiceDefaults;
+﻿using JaPark.Shared.Application.Caching;
+using JaPark.Shared.Application.EventBus;
+using JaPark.Shared.Infrastructure.Authentication;
+using JaPark.Shared.Infrastructure.Authorization;
+using JaPark.Shared.Infrastructure.Caching;
+using JaPark.Shared.Infrastructure.Outbox;
 using MassTransit;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
 using Quartz;
+using ServiceDefaults;
 
-namespace LearnTop.Shared.Infrastructure;
+namespace JaPark.Shared.Infrastructure;
 
 public static class InfrastructureConfiguration
 {

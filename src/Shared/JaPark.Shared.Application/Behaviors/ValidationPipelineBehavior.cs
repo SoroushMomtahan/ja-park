@@ -1,9 +1,9 @@
 ﻿using System.Reflection;
 using FluentValidation;
 using FluentValidation.Results;
-using LearnTop.Shared.Application.Cqrs;
+using JaPark.Shared.Application.Cqrs;
 
-namespace LearnTop.Shared.Application.Behaviors;
+namespace JaPark.Shared.Application.Behaviors;
 
 internal sealed class ValidationPipelineBehavior<TRequest, TResponse>(
     IEnumerable<IValidator<TRequest>> validators)

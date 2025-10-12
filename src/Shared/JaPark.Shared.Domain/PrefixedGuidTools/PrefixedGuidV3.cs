@@ -3,7 +3,7 @@ using System.Reflection;
 using JaPark.Shared.Domain.Errors;
 using JaPark.Shared.Domain.Results;
 
-namespace JaPark.Shared.Domain;
+namespace JaPark.Shared.Domain.PrefixedGuidTools;
 
 [TypeConverter(typeof(PrefixedGuidConverter))] // این همچنان مفید است
 public abstract record PrefixedGuidV3

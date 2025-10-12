@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Infrastructure.Outbox;
+﻿namespace JaPark.Shared.Infrastructure.Outbox;
 
 public sealed class OutboxMessageConsumer(Guid outboxMessageId, string name)
 {

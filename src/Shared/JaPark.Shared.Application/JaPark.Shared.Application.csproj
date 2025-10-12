@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <Content Include="Pagination\.idea\.gitignore" />
+    <Content Include="Pagination\.idea\encodings.xml" />
+    <Content Include="Pagination\.idea\indexLayout.xml" />
+    <Content Include="Pagination\.idea\projectSettingsUpdater.xml" />
+    <Content Include="Pagination\.idea\vcs.xml" />
+    <Content Include="Pagination\.idea\workspace.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\JaPark.Shared.Domain\JaPark.Shared.Domain.csproj" />
+  </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="FluentValidation.DependencyInjectionExtensions" />
+        <PackageReference Include="MediatR" />
+        <PackageReference Include="Serilog.AspNetCore" />
+    </ItemGroup>
+</Project>

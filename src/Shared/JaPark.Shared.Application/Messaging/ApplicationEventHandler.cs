@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Application.Messaging;
+﻿namespace JaPark.Shared.Application.Messaging;
 
 public abstract class ApplicationEventHandler<TApplicationEvent> : IApplicationEventHandler<TApplicationEvent>
 where TApplicationEvent : ApplicationEvent

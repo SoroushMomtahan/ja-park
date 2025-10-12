@@ -1,4 +1,4 @@
-﻿namespace JaPark.Shared.Domain;
+﻿namespace JaPark.Shared.Domain.PrefixedGuidTools;
 
 [AttributeUsage(AttributeTargets.Class)]
 public sealed class PrefixAttribute(string prefix) : Attribute

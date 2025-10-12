@@ -1,6 +1,6 @@
 ﻿using Serilog.Context;
 
-namespace LearnTop.Shared.Application.Behaviors;
+namespace JaPark.Shared.Application.Behaviors;
 
 internal sealed class RequestLoggingPipelineBehavior<TRequest, TResponse>(
     ILogger<RequestLoggingPipelineBehavior<TRequest, TResponse>> logger)

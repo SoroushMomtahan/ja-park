@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Application.Pagination;
+﻿namespace JaPark.Shared.Application.Pagination;
 
 public class PaginatedResult<TEntity>
     (int pageIndex, int pageSize, long count, IEnumerable<TEntity> data)

@@ -1,4 +1,6 @@
-﻿namespace LearnTop.Shared.Domain;
+﻿using JaPark.Shared.Domain.Results;
+
+namespace JaPark.Shared.Domain.Errors;
 
 public sealed record ValidationError(Error[] Errors) : Error("General.Validation",
     "یک یا چند خطای اعتبارسنجی رخ داد",

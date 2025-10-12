@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <Sdk Name="Aspire.AppHost.Sdk" Version="9.4.1"/>
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <UserSecretsId>d12fd221-cfaf-4db2-9f0d-6bd8f8bd7c6b</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Aspire.Hosting.AppHost"/>
+    </ItemGroup>
+
+</Project>

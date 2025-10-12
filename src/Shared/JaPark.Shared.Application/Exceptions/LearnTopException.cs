@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Application.Exceptions;
+﻿namespace JaPark.Shared.Application.Exceptions;
 
 public sealed class LearnTopException(string requestName, Error? error = default, Exception? innerException = default)
     : Exception("خطای دامنه", innerException)

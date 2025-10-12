@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Application.Caching;
+﻿namespace JaPark.Shared.Application.Caching;
 
 public interface ICacheService
 {

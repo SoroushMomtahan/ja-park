@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace LearnTop.Shared.Infrastructure.Authentication;
+namespace JaPark.Shared.Infrastructure.Authentication;
 
 internal static class AuthenticationExtensions
 {

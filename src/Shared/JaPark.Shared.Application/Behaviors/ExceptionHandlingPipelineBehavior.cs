@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Application.Behaviors;
+﻿namespace JaPark.Shared.Application.Behaviors;
 
 internal sealed class ExceptionHandlingPipelineBehavior<TRequest, TResponse>(
     ILogger<ExceptionHandlingPipelineBehavior<TRequest, TResponse>> logger)

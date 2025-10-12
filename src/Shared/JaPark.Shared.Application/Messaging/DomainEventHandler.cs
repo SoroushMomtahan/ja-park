@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Application.Messaging;
+﻿namespace JaPark.Shared.Application.Messaging;
 
 public abstract class DomainEventHandler<TDomainEvent> : IDomainEventHandler<TDomainEvent>
     where TDomainEvent : IDomainEvent

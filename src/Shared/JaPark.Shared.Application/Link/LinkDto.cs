@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Application.Link;
+﻿namespace JaPark.Shared.Application.Link;
 
 public record LinkDto
 {

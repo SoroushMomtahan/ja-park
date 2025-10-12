@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 
-namespace LearnTop.Shared.Infrastructure.Authorization;
+namespace JaPark.Shared.Infrastructure.Authorization;
 
 internal sealed class PermissionRequirement : IAuthorizationRequirement
 {

@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Infrastructure.Inbox;
+﻿namespace JaPark.Shared.Infrastructure.Inbox;
 
 public sealed class InboxMessageConsumer(Guid inboxMessageId, string name)  
 {  

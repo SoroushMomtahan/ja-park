@@ -1,4 +1,4 @@
-﻿namespace LearnTop.Shared.Application.EventBus;
+﻿namespace JaPark.Shared.Application.EventBus;
 
 public abstract class IntegrationEventHandler<TIntegrationEvent> : IIntegrationEventHandler<TIntegrationEvent>  
     where TIntegrationEvent : IIntegrationEvent  
