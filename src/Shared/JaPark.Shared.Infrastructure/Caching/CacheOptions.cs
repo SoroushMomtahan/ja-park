@@ -1,0 +1,18 @@
+﻿using Microsoft.Extensions.Caching.Distributed;
+
+namespace LearnTop.Shared.Infrastructure.Caching;
+
+public static class CacheOptions
+{
+    public static DistributedCacheEntryOptions DefaultExpiration => new()
+    {
+        AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(2)
+    };
+
+    public static DistributedCacheEntryOptions Create(TimeSpan? expiration)
+    {
+        return expiration is not null ?
+            new() { AbsoluteExpirationRelativeToNow = expiration } :
+            DefaultExpiration;
+    }
+}
