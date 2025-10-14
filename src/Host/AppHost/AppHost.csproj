@@ -11,4 +11,8 @@
         <PackageReference Include="Aspire.Hosting.AppHost"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\..\Services\Parking\JaPark.Services.Parking.Api\JaPark.Services.Parking.Api.csproj" />
+    </ItemGroup>
+
 </Project>
