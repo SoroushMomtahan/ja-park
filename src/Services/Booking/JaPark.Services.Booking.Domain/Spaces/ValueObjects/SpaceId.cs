@@ -1,3 +1,4 @@
 ﻿namespace JaPark.Services.Booking.Domain.Spaces.ValueObjects;
 
-public record SpaceId();
+[Prefix("space")]
+public record SpaceId(string Value) : PrefixedGuidV3(Value);

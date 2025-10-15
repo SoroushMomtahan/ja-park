@@ -1,3 +1,4 @@
 ﻿namespace JaPark.Services.Booking.Domain.Booking.ValueObjects;
 
-public record BookingId();
+[Prefix("booking")]
+public record BookingId(string Value) : PrefixedGuidV3(Value);

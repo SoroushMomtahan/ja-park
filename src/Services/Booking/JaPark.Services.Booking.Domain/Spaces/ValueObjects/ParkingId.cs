@@ -1,6 +1,4 @@
 ﻿namespace JaPark.Services.Booking.Domain.Spaces.ValueObjects;
 
-public class ParkingId
-{
-    
-}
+[Prefix("parking")]
+public record ParkingId(string Value) : PrefixedGuidV3(Value);

@@ -1,6 +1,14 @@
 ﻿namespace JaPark.Services.Booking.Domain.Spaces.ValueObjects;
 
-public class SpaceName
+public record SpaceName
 {
-    
+    public string Prefix { get; init; }
+    public int Number { get; init; }
+    private SpaceName(string prefix, int number) => (Prefix, Number) = (prefix, number);
+
+    public static SpaceName From(string prefix, int number)
+    {
+        return new SpaceName(prefix, number);
+    }
+    public string To() => $"{Prefix}|{Number}";
 }

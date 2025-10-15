@@ -2,14 +2,14 @@
 
 namespace JaPark.Services.Booking.Domain.Booking.ValueObjects;
 
-public record Plate
+public record PlateNumber
 {
     private const string PersianAlphabet = "ابپتثجچحخدذرزژسشصضطظعغفقکگلمنوهی";
     private static readonly SearchValues<char> PersianLetters = SearchValues.Create(PersianAlphabet);
     public string Value { get; private set; }
-    private Plate(string value) => Value = value;
+    private PlateNumber(string value) => Value = value;
 
-    public static Result<Plate> From(string value)
+    public static Result<PlateNumber> From(string value)
     {
         value = value.Trim();
         
@@ -20,9 +20,9 @@ public record Plate
             !PersianLetters.Contains(value[2]) ||
             !value[3..].All(char.IsDigit))
         {
-            return Result.Failure<Plate>(BookingErrors.InvalidPlate);
+            return Result.Failure<PlateNumber>(BookingErrors.InvalidPlate);
         }
 
-        return new Plate(value);
+        return new PlateNumber(value);
     }
 }

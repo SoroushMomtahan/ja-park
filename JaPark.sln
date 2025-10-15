@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parking.Inf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parking.IntegrationEvent", "src\Services\Parking\JaPark.Services.Parking.IntegrationEvent\JaPark.Services.Parking.IntegrationEvent.csproj", "{4245D970-4775-4A93-9100-00C4596A2E8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Booking.Domain", "src\Services\Booking\JaPark.Services.Booking.Domain\JaPark.Services.Booking.Domain.csproj", "{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Billing.Domain", "src\Services\Billing\JaPark.Services.Billing.Domain\JaPark.Services.Billing.Domain.csproj", "{979023B9-E317-4472-BD7B-86F331293A16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -70,6 +74,8 @@ Global
 		{0471742E-4FAC-459C-8975-3B03730F2027} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
 		{3F9C6D17-326E-4C4C-AC2A-6CB46070B4B6} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
 		{4245D970-4775-4A93-9100-00C4596A2E8F} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
+		{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82} = {0A43C6B8-89AE-4480-8714-64DA3F1E4435}
+		{979023B9-E317-4472-BD7B-86F331293A16} = {A2C50773-4630-42AF-A177-7932D26120B5}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9329B8FF-AD4E-4248-9AFE-3B77F14705F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -120,5 +126,13 @@ Global
 		{4245D970-4775-4A93-9100-00C4596A2E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4245D970-4775-4A93-9100-00C4596A2E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4245D970-4775-4A93-9100-00C4596A2E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979023B9-E317-4472-BD7B-86F331293A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979023B9-E317-4472-BD7B-86F331293A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979023B9-E317-4472-BD7B-86F331293A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979023B9-E317-4472-BD7B-86F331293A16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
