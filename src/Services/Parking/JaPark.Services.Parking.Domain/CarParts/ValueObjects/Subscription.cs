@@ -2,14 +2,10 @@
 
 public record Subscription
 {
-    public int MaxAcceptableSection { get; set; }
-    public int MaxAcceptableSpace { get; set; }
+    public int MaxAcceptableSection { get; init; }
+    public int MaxAcceptableSpace { get; init; }
 
-    public Subscription(int maxAcceptableSection, int maxAcceptableSpace)
-    {
-        MaxAcceptableSection = maxAcceptableSection;
-        MaxAcceptableSpace = maxAcceptableSpace;
-    }
-
-    public static readonly Subscription Default = new(1, 50);
+    private Subscription(int maxAcceptableSection, int maxAcceptableSpace) => 
+        (MaxAcceptableSection, MaxAcceptableSpace) =  (maxAcceptableSection, maxAcceptableSpace);
+    public static readonly Subscription Default = new(1, 100);
 }

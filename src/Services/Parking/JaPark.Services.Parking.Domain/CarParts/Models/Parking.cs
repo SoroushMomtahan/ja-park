@@ -1,4 +1,5 @@
-﻿using JaPark.Services.Parking.Domain.CarParts.Events;
+﻿using JaPark.Services.Parking.Domain.CarParts.Errors;
+using JaPark.Services.Parking.Domain.CarParts.Events;
 using JaPark.Services.Parking.Domain.CarParts.ValueObjects;
 
 namespace JaPark.Services.Parking.Domain.CarParts.Models;

@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Penalize.Do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Promotions.Domain", "src\Services\Promotions\JaPark.Services.Promotions.Domain\JaPark.Services.Promotions.Domain.csproj", "{B7CE230D-6AAD-4477-BFE3-A5068D722451}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Subscriptions.Domain", "src\Services\Subscriptions\JaPark.Services.Subscriptions.Domain\JaPark.Services.Subscriptions.Domain.csproj", "{7437C7C4-030C-4473-AFE7-EE35C793BA97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,7 @@ Global
 		{451B6AB4-A645-4CB2-A8AB-E5C216F47060} = {D330F0DB-9129-4163-BC6C-09A58D0212B9}
 		{661ADA8C-D7DC-4262-BA35-C43C4FC542F7} = {451B6AB4-A645-4CB2-A8AB-E5C216F47060}
 		{B7CE230D-6AAD-4477-BFE3-A5068D722451} = {5596C4D8-278A-4824-8676-CED8D23EF41B}
+		{7437C7C4-030C-4473-AFE7-EE35C793BA97} = {BE7BB65B-9CE4-4111-90A1-8489EFB858E0}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9329B8FF-AD4E-4248-9AFE-3B77F14705F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -151,5 +154,9 @@ Global
 		{B7CE230D-6AAD-4477-BFE3-A5068D722451}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7CE230D-6AAD-4477-BFE3-A5068D722451}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7CE230D-6AAD-4477-BFE3-A5068D722451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7437C7C4-030C-4473-AFE7-EE35C793BA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7437C7C4-030C-4473-AFE7-EE35C793BA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7437C7C4-030C-4473-AFE7-EE35C793BA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7437C7C4-030C-4473-AFE7-EE35C793BA97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

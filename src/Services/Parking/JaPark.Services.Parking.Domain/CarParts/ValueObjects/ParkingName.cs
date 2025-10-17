@@ -1,4 +1,6 @@
-﻿namespace JaPark.Services.Parking.Domain.CarParts.ValueObjects;
+﻿using JaPark.Services.Parking.Domain.CarParts.Errors;
+
+namespace JaPark.Services.Parking.Domain.CarParts.ValueObjects;
 
 public record ParkingName
 {

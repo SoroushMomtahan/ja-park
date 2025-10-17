@@ -2,7 +2,4 @@
   <ItemGroup>
     <ProjectReference Include="..\..\..\Shared\JaPark.Shared.Domain\JaPark.Shared.Domain.csproj" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="CarParts\Repository\" />
-  </ItemGroup>
 </Project>
