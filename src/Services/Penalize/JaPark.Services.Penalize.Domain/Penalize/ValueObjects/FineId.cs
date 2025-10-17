@@ -1,3 +1,6 @@
-﻿namespace JaPark.Services.Penalize.Domain.Penalize.ValueObjects;
+﻿using JaPark.Shared.Domain.PrefixedGuidTools;
 
-public record FineId();
+namespace JaPark.Services.Penalize.Domain.Penalize.ValueObjects;
+
+[Prefix("fine")]
+public record FineId(string Value) : PrefixedGuidV3(Value);

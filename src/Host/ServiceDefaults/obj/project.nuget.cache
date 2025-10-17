@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G7ZE6RxW09s=",
+  "dgSpecHash": "den2wy8ty7Q=",
   "success": true,
   "projectFilePath": "G:\\03 - Projects\\ja-park\\src\\Host\\ServiceDefaults\\ServiceDefaults.csproj",
   "expectedPackageFiles": [
@@ -48,9 +48,9 @@
     "C:\\Users\\Soroush\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0\\system.diagnostics.diagnosticsource.9.0.0.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\system.io.pipelines\\9.0.7\\system.io.pipelines.9.0.7.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512",
-    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.9\\microsoft.netcore.app.ref.9.0.9.nupkg.sha512",
-    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.9\\microsoft.windowsdesktop.app.ref.9.0.9.nupkg.sha512",
-    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.9\\microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.10\\microsoft.netcore.app.ref.9.0.10.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.10\\microsoft.windowsdesktop.app.ref.9.0.10.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.10\\microsoft.aspnetcore.app.ref.9.0.10.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "H4G869yV/4g=",
+  "dgSpecHash": "I32u9MGz918=",
   "success": true,
   "projectFilePath": "G:\\03 - Projects\\ja-park\\src\\Services\\Parking\\JaPark.Services.Parking.Api\\JaPark.Services.Parking.Api.csproj",
   "expectedPackageFiles": [
@@ -124,9 +124,9 @@
     "C:\\Users\\Soroush\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.9\\microsoft.netcore.app.ref.9.0.9.nupkg.sha512",
-    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.9\\microsoft.windowsdesktop.app.ref.9.0.9.nupkg.sha512",
-    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.9\\microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.10\\microsoft.netcore.app.ref.9.0.10.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.10\\microsoft.windowsdesktop.app.ref.9.0.10.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.10\\microsoft.aspnetcore.app.ref.9.0.10.nupkg.sha512"
   ],
   "logs": []
 }

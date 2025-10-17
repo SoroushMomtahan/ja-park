@@ -132,15 +132,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -151,7 +151,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -255,15 +255,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -271,7 +271,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -372,15 +372,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -388,7 +388,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -495,15 +495,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -511,7 +511,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -615,15 +615,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -631,7 +631,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -747,15 +747,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -763,7 +763,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -860,15 +860,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -876,7 +876,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -1015,15 +1015,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -1031,7 +1031,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -1132,15 +1132,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
+              "version": "[9.0.10, 9.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -1151,7 +1151,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

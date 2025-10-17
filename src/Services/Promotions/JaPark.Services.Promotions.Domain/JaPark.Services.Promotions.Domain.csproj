@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\JaPark.Shared.Domain\JaPark.Shared.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DiscountsPolicies\" />
+    <Folder Include="Discounts\" />
+    <Folder Include="LuckyPolicies\" />
+  </ItemGroup>
+</Project>

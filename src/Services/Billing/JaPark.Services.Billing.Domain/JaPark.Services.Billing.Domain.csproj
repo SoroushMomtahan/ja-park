@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\Shared\JaPark.Shared.Domain\JaPark.Shared.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

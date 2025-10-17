@@ -3,9 +3,8 @@ using JaPark.Services.Parking.Domain.CarParts.ValueObjects;
 
 namespace JaPark.Services.Parking.Domain.CarParts.Models;
 
-public sealed class Parking : Aggregate
-{
-    public ParkingId Id { get; private set; }
+public sealed class Parking : Aggregate<ParkingId>
+{ 
     public ParkingName Name { get; private set; }
     public ParkingAddress Address { get; private set; }
     public ParkingType Type { get; private set; }
@@ -15,12 +14,10 @@ public sealed class Parking : Aggregate
     public SpaceAssignmentPolicy AssignmentPolicy { get; private set; }
 
     private Parking(
-        ParkingId id, 
         ParkingName name, 
         ParkingAddress address, 
         ParkingType type)
     {
-        Id = id;
         Name = name;
         Address = address;
         Type = type;
@@ -30,12 +27,11 @@ public sealed class Parking : Aggregate
     }
 
     public static Result<Parking> Create(
-        ParkingId id,
         ParkingName name, 
         ParkingAddress address, 
         ParkingType type)
     {
-        return new Parking(id, name, address, type);
+        return new Parking(name, address, type);
     }
 
     public Result AddSection(Section section)

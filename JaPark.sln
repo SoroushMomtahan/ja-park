@@ -51,6 +51,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Booking.Dom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Billing.Domain", "src\Services\Billing\JaPark.Services.Billing.Domain\JaPark.Services.Billing.Domain.csproj", "{979023B9-E317-4472-BD7B-86F331293A16}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Penalize", "Penalize", "{451B6AB4-A645-4CB2-A8AB-E5C216F47060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Penalize.Domain", "src\Services\Penalize\JaPark.Services.Penalize.Domain\JaPark.Services.Penalize.Domain.csproj", "{661ADA8C-D7DC-4262-BA35-C43C4FC542F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Promotions.Domain", "src\Services\Promotions\JaPark.Services.Promotions.Domain\JaPark.Services.Promotions.Domain.csproj", "{B7CE230D-6AAD-4477-BFE3-A5068D722451}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -76,6 +82,9 @@ Global
 		{4245D970-4775-4A93-9100-00C4596A2E8F} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
 		{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82} = {0A43C6B8-89AE-4480-8714-64DA3F1E4435}
 		{979023B9-E317-4472-BD7B-86F331293A16} = {A2C50773-4630-42AF-A177-7932D26120B5}
+		{451B6AB4-A645-4CB2-A8AB-E5C216F47060} = {D330F0DB-9129-4163-BC6C-09A58D0212B9}
+		{661ADA8C-D7DC-4262-BA35-C43C4FC542F7} = {451B6AB4-A645-4CB2-A8AB-E5C216F47060}
+		{B7CE230D-6AAD-4477-BFE3-A5068D722451} = {5596C4D8-278A-4824-8676-CED8D23EF41B}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9329B8FF-AD4E-4248-9AFE-3B77F14705F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -134,5 +143,13 @@ Global
 		{979023B9-E317-4472-BD7B-86F331293A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{979023B9-E317-4472-BD7B-86F331293A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{979023B9-E317-4472-BD7B-86F331293A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{661ADA8C-D7DC-4262-BA35-C43C4FC542F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661ADA8C-D7DC-4262-BA35-C43C4FC542F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661ADA8C-D7DC-4262-BA35-C43C4FC542F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661ADA8C-D7DC-4262-BA35-C43C4FC542F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CE230D-6AAD-4477-BFE3-A5068D722451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CE230D-6AAD-4477-BFE3-A5068D722451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CE230D-6AAD-4477-BFE3-A5068D722451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CE230D-6AAD-4477-BFE3-A5068D722451}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

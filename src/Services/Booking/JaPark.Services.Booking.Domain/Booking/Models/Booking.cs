@@ -2,9 +2,8 @@
 
 namespace JaPark.Services.Booking.Domain.Booking.Models;
 
-public sealed class Booking : Aggregate
-{
-    public BookingId Id { get; private set; }
+public sealed class Booking : Aggregate<BookingId>
+{ 
     public SpaceId SpaceId { get; private set; }
     public PlateNumber PlateNumber { get; private set; }
     public DateTime LoginAt { get; private set; }
@@ -13,7 +12,6 @@ public sealed class Booking : Aggregate
 
     private Booking(BookingId id, SpaceId spaceId, PlateNumber plateNumber)
     {
-        Id = id;
         SpaceId = spaceId;
         PlateNumber = plateNumber; 
     }

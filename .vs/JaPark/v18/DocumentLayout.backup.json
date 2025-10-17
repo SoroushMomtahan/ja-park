@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\03 - Projects\\ja-park\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}|src\\Services\\Booking\\JaPark.Services.Booking.Domain\\JaPark.Services.Booking.Domain.csproj|g:\\03 - projects\\ja-park\\src\\services\\booking\\japark.services.booking.domain\\booking\\valueobjects\\optionalreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}|src\\Services\\Booking\\JaPark.Services.Booking.Domain\\JaPark.Services.Booking.Domain.csproj|solutionrelative:src\\services\\booking\\japark.services.booking.domain\\booking\\valueobjects\\optionalreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}|src\\Services\\Booking\\JaPark.Services.Booking.Domain\\JaPark.Services.Booking.Domain.csproj|g:\\03 - projects\\ja-park\\src\\services\\booking\\japark.services.booking.domain\\booking\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}|src\\Services\\Booking\\JaPark.Services.Booking.Domain\\JaPark.Services.Booking.Domain.csproj|solutionrelative:src\\services\\booking\\japark.services.booking.domain\\booking\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}|src\\Services\\Booking\\JaPark.Services.Booking.Domain\\JaPark.Services.Booking.Domain.csproj|g:\\03 - projects\\ja-park\\src\\services\\booking\\japark.services.booking.domain\\booking\\errors\\bookingerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}|src\\Services\\Booking\\JaPark.Services.Booking.Domain\\JaPark.Services.Booking.Domain.csproj|solutionrelative:src\\services\\booking\\japark.services.booking.domain\\booking\\errors\\bookingerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}|src\\Services\\Booking\\JaPark.Services.Booking.Domain\\JaPark.Services.Booking.Domain.csproj|g:\\03 - projects\\ja-park\\src\\services\\booking\\japark.services.booking.domain\\spaces\\valueobjects\\spacestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}|src\\Services\\Booking\\JaPark.Services.Booking.Domain\\JaPark.Services.Booking.Domain.csproj|solutionrelative:src\\services\\booking\\japark.services.booking.domain\\spaces\\valueobjects\\spacestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}|src\\Services\\Booking\\JaPark.Services.Booking.Domain\\JaPark.Services.Booking.Domain.csproj|g:\\03 - projects\\ja-park\\src\\services\\booking\\japark.services.booking.domain\\spaces\\models\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}|src\\Services\\Booking\\JaPark.Services.Booking.Domain\\JaPark.Services.Booking.Domain.csproj|solutionrelative:src\\services\\booking\\japark.services.booking.domain\\spaces\\models\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OptionalReservation.cs",
+              "DocumentMoniker": "G:\\03 - Projects\\ja-park\\src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Booking\\ValueObjects\\OptionalReservation.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Booking\\ValueObjects\\OptionalReservation.cs",
+              "ToolTip": "G:\\03 - Projects\\ja-park\\src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Booking\\ValueObjects\\OptionalReservation.cs",
+              "RelativeToolTip": "src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Booking\\ValueObjects\\OptionalReservation.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:43:24.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingErrors.cs",
+              "DocumentMoniker": "G:\\03 - Projects\\ja-park\\src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Booking\\Errors\\BookingErrors.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Booking\\Errors\\BookingErrors.cs",
+              "ToolTip": "G:\\03 - Projects\\ja-park\\src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Booking\\Errors\\BookingErrors.cs",
+              "RelativeToolTip": "src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Booking\\Errors\\BookingErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:27:22.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Space.cs",
+              "DocumentMoniker": "G:\\03 - Projects\\ja-park\\src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Spaces\\Models\\Space.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Spaces\\Models\\Space.cs",
+              "ToolTip": "G:\\03 - Projects\\ja-park\\src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Spaces\\Models\\Space.cs",
+              "RelativeToolTip": "src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Spaces\\Models\\Space.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:41:08.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpaceStatus.cs",
+              "DocumentMoniker": "G:\\03 - Projects\\ja-park\\src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Spaces\\ValueObjects\\SpaceStatus.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Spaces\\ValueObjects\\SpaceStatus.cs",
+              "ToolTip": "G:\\03 - Projects\\ja-park\\src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Spaces\\ValueObjects\\SpaceStatus.cs",
+              "RelativeToolTip": "src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Spaces\\ValueObjects\\SpaceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:39:01.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "G:\\03 - Projects\\ja-park\\src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Booking\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Booking\\Models\\Booking.cs",
+              "ToolTip": "G:\\03 - Projects\\ja-park\\src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Booking\\Models\\Booking.cs",
+              "RelativeToolTip": "src\\Services\\Booking\\JaPark.Services.Booking.Domain\\Booking\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:28:39.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
