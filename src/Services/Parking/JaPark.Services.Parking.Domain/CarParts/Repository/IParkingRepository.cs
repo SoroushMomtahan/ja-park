@@ -2,6 +2,6 @@
 
 public interface IParkingRepository
 {
-    Task AddParking(Models.Parking parking, CancellationToken cancellationToken);
-    Task RemoveParking(Models.Parking parking, CancellationToken cancellationToken);
+    Task AddParkingAsync(Models.Parking parking, CancellationToken cancellationToken);
+    Task RemoveParkingAsync(Models.Parking parking, CancellationToken cancellationToken);
 }

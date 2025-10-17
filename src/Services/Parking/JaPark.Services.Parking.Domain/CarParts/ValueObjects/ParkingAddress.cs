@@ -2,17 +2,13 @@
 
 public record ParkingAddress
 {
-    public string Location { get; init; }
-    public string Description { get; init; }
+    public string Map { get; init; }
+    public string Text { get; init; }
 
-    private ParkingAddress(string location, string description)
-    {
-        Location = location;
-        Description = description;
-    }
+    private ParkingAddress(string map, string text) => (Map, Text) = (map, text);
 
-    public static Result<ParkingAddress> From(string location, string description)
+    public static ParkingAddress From(string map, string text)
     {
-        return new ParkingAddress(location, description);
+        return new ParkingAddress(map, text);
     }
 }

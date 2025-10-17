@@ -1,4 +1,5 @@
-﻿using JaPark.Services.Parking.Domain.CarParts.Errors;
+﻿using JaPark.Services.Parking.Domain.CarParts.Enums;
+using JaPark.Services.Parking.Domain.CarParts.Errors;
 using JaPark.Services.Parking.Domain.CarParts.Events;
 using JaPark.Services.Parking.Domain.CarParts.ValueObjects;
 
@@ -27,7 +28,7 @@ public sealed class Parking : Aggregate<ParkingId>
         _sections = [];
     }
 
-    public static Result<Parking> Create(
+    public static Parking Create(
         ParkingName name, 
         ParkingAddress address, 
         ParkingType type)
