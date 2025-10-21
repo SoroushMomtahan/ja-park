@@ -1,5 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
     <ItemGroup>
+        <PackageReference Include="Aspire.Npgsql.EntityFrameworkCore.PostgreSQL" />
         <PackageReference Include="Aspire.StackExchange.Redis.DistributedCaching" />
         <PackageReference Include="MassTransit" />
         <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" />
@@ -7,9 +8,10 @@
         <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" />
         <PackageReference Include="Quartz.Extensions.Hosting" />
         <PackageReference Include="Scrutor" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" />
     </ItemGroup>
     <ItemGroup>
-      <ProjectReference Include="..\..\Host\ServiceDefaults\ServiceDefaults.csproj" />
       <ProjectReference Include="..\JaPark.Shared.Application\JaPark.Shared.Application.csproj" />
     </ItemGroup>
 </Project>

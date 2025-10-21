@@ -46,7 +46,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -67,6 +67,11 @@
               "version": "[9.4.1, )",
               "autoReferenced": true
             },
+            "Aspire.Hosting.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.5.1, )",
+              "versionCentrallyManaged": true
+            },
             "SonarAnalyzer.CSharp": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -77,16 +82,24 @@
           },
           "centralPackageVersions": {
             "Aspire.Hosting.AppHost": "9.4.1",
+            "Aspire.Hosting.PostgreSQL": "9.5.1",
             "Aspire.Hosting.Redis": "9.4.1",
+            "Aspire.Npgsql.EntityFrameworkCore.PostgreSQL": "9.5.1",
             "Aspire.StackExchange.Redis.DistributedCaching": "9.4.1",
             "FluentValidation.DependencyInjectionExtensions": "12.0.0",
             "MassTransit": "8.5.3-develop.2359",
             "MediatR": "13.0.0",
-            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.8",
-            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "9.0.8",
-            "Microsoft.AspNetCore.OpenApi": "9.0.8",
-            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.8",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.9",
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "9.0.9",
+            "Microsoft.AspNetCore.OpenApi": "9.0.9",
+            "Microsoft.EntityFrameworkCore": "9.0.9",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.9",
+            "Microsoft.EntityFrameworkCore.Relational": "9.0.9",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.9",
+            "Microsoft.EntityFrameworkCore.Tools": "9.0.9",
+            "Microsoft.Extensions.Hosting": "9.0.9",
             "Microsoft.Extensions.Http.Resilience": "9.7.0",
+            "Microsoft.Extensions.Options": "9.0.9",
             "Microsoft.Extensions.ServiceDiscovery": "9.4.1",
             "OpenTelemetry.Exporter.OpenTelemetryProtocol": "1.12.0",
             "OpenTelemetry.Extensions.Hosting": "1.12.0",
@@ -96,7 +109,8 @@
             "Quartz.Extensions.Hosting": "3.15.0",
             "Scrutor": "6.1.0",
             "Serilog.AspNetCore": "9.0.0",
-            "SonarAnalyzer.CSharp": "10.15.0.120848"
+            "SonarAnalyzer.CSharp": "10.15.0.120848",
+            "Swashbuckle.AspNetCore": "9.0.6"
           },
           "imports": [
             "net461",
@@ -109,30 +123,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.10, 9.0.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[9.0.10, 9.0.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.10, 9.0.10]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.10, 9.0.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

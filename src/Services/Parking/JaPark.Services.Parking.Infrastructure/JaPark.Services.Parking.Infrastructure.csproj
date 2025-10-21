@@ -1,7 +1,0 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\Shared\JaPark.Shared.Infrastructure\JaPark.Shared.Infrastructure.csproj" />
-    <ProjectReference Include="..\JaPark.Services.Parking.Application\JaPark.Services.Parking.Application.csproj" />
-    <ProjectReference Include="..\JaPark.Services.Parking.Presentation\JaPark.Services.Parking.Presentation.csproj" />
-  </ItemGroup>
-</Project>

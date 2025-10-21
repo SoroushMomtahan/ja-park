@@ -2,14 +2,17 @@
 using FluentValidation;
 using JaPark.Shared.Application.Behaviors;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 
 namespace JaPark.Shared.Application;
 
 public static class ApplicationConfiguration
 {
-    public static IServiceCollection AddApplicationConfiguration(
-        this IServiceCollection services, params Assembly[] assemblies)
+    public static IHostApplicationBuilder AddApplicationConfiguration(
+        this IHostApplicationBuilder builder, params Assembly[] assemblies)
     {
+        IServiceCollection services = builder.Services;
+        
         services.AddMediatR(config =>
         {
             config.RegisterServicesFromAssemblies(assemblies);
@@ -18,6 +21,6 @@ public static class ApplicationConfiguration
             config.AddOpenBehavior(typeof(RequestLoggingPipelineBehavior<,>));
         });
         services.AddValidatorsFromAssemblies(assemblies, includeInternalTypes: true);
-        return services;
+        return builder;
     }
 }

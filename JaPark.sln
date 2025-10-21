@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHost", "src\Host\AppHost
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceDefaults", "src\Host\ServiceDefaults\ServiceDefaults.csproj", "{97BBC8A8-7263-45CB-9520-2F8381B696B3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parking", "Parking", "{656D124E-69CA-4C14-92BF-30B6D83BFECB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parkings", "Parkings", "{656D124E-69CA-4C14-92BF-30B6D83BFECB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Billing", "Billing", "{A2C50773-4630-42AF-A177-7932D26120B5}"
 EndProject
@@ -35,18 +35,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Shared.Infrastructur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Shared.Presentation", "src\Shared\JaPark.Shared.Presentation\JaPark.Shared.Presentation.csproj", "{D539DB6E-23C8-48F3-8B17-6E6F1B082C06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parking.Api", "src\Services\Parking\JaPark.Services.Parking.Api\JaPark.Services.Parking.Api.csproj", "{C7FA6392-36A3-4EED-B231-18D893A9A49E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parking.Presentation", "src\Services\Parking\JaPark.Services.Parking.Presentation\JaPark.Services.Parking.Presentation.csproj", "{BD85CB31-772A-4875-8A27-1B209D0B2F42}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parking.Domain", "src\Services\Parking\JaPark.Services.Parking.Domain\JaPark.Services.Parking.Domain.csproj", "{AA3ADC52-9396-4435-BE22-5FCD646D2EBF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parking.Application", "src\Services\Parking\JaPark.Services.Parking.Application\JaPark.Services.Parking.Application.csproj", "{0471742E-4FAC-459C-8975-3B03730F2027}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parking.Infrastructure", "src\Services\Parking\JaPark.Services.Parking.Infrastructure\JaPark.Services.Parking.Infrastructure.csproj", "{3F9C6D17-326E-4C4C-AC2A-6CB46070B4B6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parking.IntegrationEvent", "src\Services\Parking\JaPark.Services.Parking.IntegrationEvent\JaPark.Services.Parking.IntegrationEvent.csproj", "{4245D970-4775-4A93-9100-00C4596A2E8F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Booking.Domain", "src\Services\Booking\JaPark.Services.Booking.Domain\JaPark.Services.Booking.Domain.csproj", "{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Billing.Domain", "src\Services\Billing\JaPark.Services.Billing.Domain\JaPark.Services.Billing.Domain.csproj", "{979023B9-E317-4472-BD7B-86F331293A16}"
@@ -58,6 +46,22 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Promotions.Domain", "src\Services\Promotions\JaPark.Services.Promotions.Domain\JaPark.Services.Promotions.Domain.csproj", "{B7CE230D-6AAD-4477-BFE3-A5068D722451}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Subscriptions.Domain", "src\Services\Subscriptions\JaPark.Services.Subscriptions.Domain\JaPark.Services.Subscriptions.Domain.csproj", "{7437C7C4-030C-4473-AFE7-EE35C793BA97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Shared.Api", "src\Shared\JaPark.Shared.Api\JaPark.Shared.Api.csproj", "{02F77248-E447-40F5-B885-AFA4338C7A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parkings.Domain", "src\Services\Parkings\JaPark.Services.Parkings.Domain\JaPark.Services.Parkings.Domain.csproj", "{00827391-FAEB-4DF7-83F6-6536BEE6759D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parkings.Application", "src\Services\Parkings\JaPark.Services.Parkings.Application\JaPark.Services.Parkings.Application.csproj", "{2C812C15-07EA-416C-8CD3-9FDCC09FD0D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parkings.Infrastructure", "src\Services\Parkings\JaPark.Services.Parkings.Infrastructure\JaPark.Services.Parkings.Infrastructure.csproj", "{694E0113-0E54-4677-BE52-54097CA0C7C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parkings.Presentation", "src\Services\Parkings\JaPark.Services.Parkings.Presentation\JaPark.Services.Parkings.Presentation.csproj", "{27C43A50-5E3D-4E44-AA1A-F11B14305AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parkings.IntegrationEvent", "src\Services\Parkings\JaPark.Services.Parkings.IntegrationEvent\JaPark.Services.Parkings.IntegrationEvent.csproj", "{54B2BF5F-BE90-4FF2-93B1-DB4E28B65392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parkings.Migrator", "src\Services\Parkings\JaPark.Services.Parkings.Migrator\JaPark.Services.Parkings.Migrator.csproj", "{36E267BD-26D3-4A63-90FB-426988581083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaPark.Services.Parkings.Api", "src\Services\Parkings\JaPark.Services.Parkings.Api\JaPark.Services.Parkings.Api.csproj", "{9288CE00-F330-4A02-82DE-4B5F4530469D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -76,18 +80,20 @@ Global
 		{EE7ACD22-8180-4DFD-8FFC-F6D0561A8AB8} = {A0DE178A-46A0-4E76-8FA7-4C37B7000C35}
 		{040AC314-1FD1-4E69-8B67-959A1F299125} = {A0DE178A-46A0-4E76-8FA7-4C37B7000C35}
 		{D539DB6E-23C8-48F3-8B17-6E6F1B082C06} = {A0DE178A-46A0-4E76-8FA7-4C37B7000C35}
-		{C7FA6392-36A3-4EED-B231-18D893A9A49E} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
-		{BD85CB31-772A-4875-8A27-1B209D0B2F42} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
-		{AA3ADC52-9396-4435-BE22-5FCD646D2EBF} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
-		{0471742E-4FAC-459C-8975-3B03730F2027} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
-		{3F9C6D17-326E-4C4C-AC2A-6CB46070B4B6} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
-		{4245D970-4775-4A93-9100-00C4596A2E8F} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
 		{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82} = {0A43C6B8-89AE-4480-8714-64DA3F1E4435}
 		{979023B9-E317-4472-BD7B-86F331293A16} = {A2C50773-4630-42AF-A177-7932D26120B5}
 		{451B6AB4-A645-4CB2-A8AB-E5C216F47060} = {D330F0DB-9129-4163-BC6C-09A58D0212B9}
 		{661ADA8C-D7DC-4262-BA35-C43C4FC542F7} = {451B6AB4-A645-4CB2-A8AB-E5C216F47060}
 		{B7CE230D-6AAD-4477-BFE3-A5068D722451} = {5596C4D8-278A-4824-8676-CED8D23EF41B}
 		{7437C7C4-030C-4473-AFE7-EE35C793BA97} = {BE7BB65B-9CE4-4111-90A1-8489EFB858E0}
+		{02F77248-E447-40F5-B885-AFA4338C7A4F} = {A0DE178A-46A0-4E76-8FA7-4C37B7000C35}
+		{00827391-FAEB-4DF7-83F6-6536BEE6759D} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
+		{2C812C15-07EA-416C-8CD3-9FDCC09FD0D3} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
+		{694E0113-0E54-4677-BE52-54097CA0C7C8} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
+		{27C43A50-5E3D-4E44-AA1A-F11B14305AA8} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
+		{54B2BF5F-BE90-4FF2-93B1-DB4E28B65392} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
+		{36E267BD-26D3-4A63-90FB-426988581083} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
+		{9288CE00-F330-4A02-82DE-4B5F4530469D} = {656D124E-69CA-4C14-92BF-30B6D83BFECB}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9329B8FF-AD4E-4248-9AFE-3B77F14705F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -114,30 +120,6 @@ Global
 		{D539DB6E-23C8-48F3-8B17-6E6F1B082C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D539DB6E-23C8-48F3-8B17-6E6F1B082C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D539DB6E-23C8-48F3-8B17-6E6F1B082C06}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C7FA6392-36A3-4EED-B231-18D893A9A49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C7FA6392-36A3-4EED-B231-18D893A9A49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C7FA6392-36A3-4EED-B231-18D893A9A49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C7FA6392-36A3-4EED-B231-18D893A9A49E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BD85CB31-772A-4875-8A27-1B209D0B2F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BD85CB31-772A-4875-8A27-1B209D0B2F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BD85CB31-772A-4875-8A27-1B209D0B2F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BD85CB31-772A-4875-8A27-1B209D0B2F42}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AA3ADC52-9396-4435-BE22-5FCD646D2EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AA3ADC52-9396-4435-BE22-5FCD646D2EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AA3ADC52-9396-4435-BE22-5FCD646D2EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AA3ADC52-9396-4435-BE22-5FCD646D2EBF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0471742E-4FAC-459C-8975-3B03730F2027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0471742E-4FAC-459C-8975-3B03730F2027}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0471742E-4FAC-459C-8975-3B03730F2027}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0471742E-4FAC-459C-8975-3B03730F2027}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3F9C6D17-326E-4C4C-AC2A-6CB46070B4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3F9C6D17-326E-4C4C-AC2A-6CB46070B4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3F9C6D17-326E-4C4C-AC2A-6CB46070B4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3F9C6D17-326E-4C4C-AC2A-6CB46070B4B6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4245D970-4775-4A93-9100-00C4596A2E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4245D970-4775-4A93-9100-00C4596A2E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4245D970-4775-4A93-9100-00C4596A2E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4245D970-4775-4A93-9100-00C4596A2E8F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB6659B2-6B48-4A49-B6AF-B8B829A7EA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -158,5 +140,37 @@ Global
 		{7437C7C4-030C-4473-AFE7-EE35C793BA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7437C7C4-030C-4473-AFE7-EE35C793BA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7437C7C4-030C-4473-AFE7-EE35C793BA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F77248-E447-40F5-B885-AFA4338C7A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F77248-E447-40F5-B885-AFA4338C7A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F77248-E447-40F5-B885-AFA4338C7A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F77248-E447-40F5-B885-AFA4338C7A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00827391-FAEB-4DF7-83F6-6536BEE6759D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00827391-FAEB-4DF7-83F6-6536BEE6759D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00827391-FAEB-4DF7-83F6-6536BEE6759D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00827391-FAEB-4DF7-83F6-6536BEE6759D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C812C15-07EA-416C-8CD3-9FDCC09FD0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C812C15-07EA-416C-8CD3-9FDCC09FD0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C812C15-07EA-416C-8CD3-9FDCC09FD0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C812C15-07EA-416C-8CD3-9FDCC09FD0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694E0113-0E54-4677-BE52-54097CA0C7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694E0113-0E54-4677-BE52-54097CA0C7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694E0113-0E54-4677-BE52-54097CA0C7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694E0113-0E54-4677-BE52-54097CA0C7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C43A50-5E3D-4E44-AA1A-F11B14305AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C43A50-5E3D-4E44-AA1A-F11B14305AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C43A50-5E3D-4E44-AA1A-F11B14305AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C43A50-5E3D-4E44-AA1A-F11B14305AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B2BF5F-BE90-4FF2-93B1-DB4E28B65392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B2BF5F-BE90-4FF2-93B1-DB4E28B65392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B2BF5F-BE90-4FF2-93B1-DB4E28B65392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B2BF5F-BE90-4FF2-93B1-DB4E28B65392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E267BD-26D3-4A63-90FB-426988581083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E267BD-26D3-4A63-90FB-426988581083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E267BD-26D3-4A63-90FB-426988581083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E267BD-26D3-4A63-90FB-426988581083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9288CE00-F330-4A02-82DE-4B5F4530469D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9288CE00-F330-4A02-82DE-4B5F4530469D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9288CE00-F330-4A02-82DE-4B5F4530469D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9288CE00-F330-4A02-82DE-4B5F4530469D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

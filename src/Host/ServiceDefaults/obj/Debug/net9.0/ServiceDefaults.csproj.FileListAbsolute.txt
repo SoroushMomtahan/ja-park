@@ -1,0 +1,15 @@
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\bin\Debug\net9.0\ServiceDefaults.deps.json
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\bin\Debug\net9.0\ServiceDefaults.dll
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\bin\Debug\net9.0\ServiceDefaults.pdb
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\bin\Debug\net9.0\ServiceDefaults.xml
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.csproj.AssemblyReference.cache
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.AssemblyInfoInputs.cache
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.AssemblyInfo.cs
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.csproj.CoreCompileInputs.cache
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.sourcelink.json
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.dll
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\obj\Debug\net9.0\refint\ServiceDefaults.dll
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.xml
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\obj\Debug\net9.0\ServiceDefaults.pdb
+G:\03 - Projects\ja-park\src\Host\ServiceDefaults\obj\Debug\net9.0\ref\ServiceDefaults.dll

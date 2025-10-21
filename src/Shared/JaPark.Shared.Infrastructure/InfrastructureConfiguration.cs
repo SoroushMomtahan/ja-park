@@ -1,5 +1,4 @@
 ﻿using JaPark.Shared.Application.Caching;
-using JaPark.Shared.Application.EventBus;
 using JaPark.Shared.Infrastructure.Authentication;
 using JaPark.Shared.Infrastructure.Authorization;
 using JaPark.Shared.Infrastructure.Caching;
@@ -9,19 +8,15 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
 using Quartz;
-using ServiceDefaults;
 
 namespace JaPark.Shared.Infrastructure;
 
 public static class InfrastructureConfiguration
 {
-    public static IServiceCollection AddInfrastructureConfiguration(
+    public static IHostApplicationBuilder AddInfrastructureConfiguration(
         this IHostApplicationBuilder builder,
-        Action<IRegistrationConfigurator>[] moduleConfigureConsumers)
+        Action<IRegistrationConfigurator>[]? moduleConfigureConsumers = null)
     {
-
-        builder.AddServiceDefaults();
-        
         IServiceCollection services = builder.Services;
         
         services.AddAuthenticationInternal();
@@ -31,7 +26,7 @@ public static class InfrastructureConfiguration
         services.AddMessagingServices(moduleConfigureConsumers);
         services.AddQuartzService();
         
-        return services;
+        return builder;
     }
     
     private static void AddRedisCache(this IServiceCollection services, IHostApplicationBuilder builder)
@@ -42,14 +37,21 @@ public static class InfrastructureConfiguration
     }
     private static void AddMessagingServices(
         this IServiceCollection services,
-        Action<IRegistrationConfigurator>[] moduleConfigureConsumers)
+        Action<IRegistrationConfigurator>[]? moduleConfigureConsumers)
     {
         services.TryAddSingleton<InsertOutboxMessageInterceptor>();
         
-        services.AddSingleton<IEventBus, EventBus.EventBus>();
+#pragma warning disable S125
+        // services.AddSingleton<IEventBus, EventBus.EventBus>();
+#pragma warning restore S125
         
         services.AddMassTransit(config =>
         {
+            if (moduleConfigureConsumers == null)
+            {
+                return;
+            }
+
             foreach (Action<IRegistrationConfigurator> moduleConfigureConsumer in moduleConfigureConsumers)
             {
                 moduleConfigureConsumer(config);

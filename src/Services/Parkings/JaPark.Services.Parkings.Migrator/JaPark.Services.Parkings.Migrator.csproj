@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <UserSecretsId>dotnet-JaPark.Services.Parking.Migrator-90db9483-831a-48e6-bb5d-cbdff6a61de7</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Extensions.Hosting"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\JaPark.Services.Parkings.Infrastructure\JaPark.Services.Parkings.Infrastructure.csproj" />
+    </ItemGroup>
+</Project>

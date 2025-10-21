@@ -1,7 +1,19 @@
-using Projects;
+#pragma warning disable IDE0005
+using AppHost.Extensions;
+#pragma warning restore IDE0005
 
 IDistributedApplicationBuilder builder = DistributedApplication.CreateBuilder(args);
 
-builder.AddProject<JaPark_Services_Parking_Api>("parking-service");
+IResourceBuilder<PostgresServerResource> sharedPostgresServer =
+    builder
+        .AddPostgres("postgres")
+        .WithLifetime(ContainerLifetime.Persistent)
+        .WithPgAdmin();
+
+IResourceBuilder<PostgresDatabaseResource> parkingsDb =
+    sharedPostgresServer
+        .AddDatabase("parkings-db");
+
+builder.AddParkingServices(parkingsDb);
 
 await builder.Build().RunAsync();

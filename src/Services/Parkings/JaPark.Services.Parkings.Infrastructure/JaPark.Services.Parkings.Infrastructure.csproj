@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\JaPark.Shared.Infrastructure\JaPark.Shared.Infrastructure.csproj" />
+    <ProjectReference Include="..\JaPark.Services.Parkings.Application\JaPark.Services.Parkings.Application.csproj" />
+    <ProjectReference Include="..\JaPark.Services.Parkings.Presentation\JaPark.Services.Parkings.Presentation.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\WriteDb\Migrations\" />
+  </ItemGroup>
+</Project>

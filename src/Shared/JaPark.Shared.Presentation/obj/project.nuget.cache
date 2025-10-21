@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gU/uDXDmavA=",
+  "dgSpecHash": "ELZzPFdMaFw=",
   "success": true,
   "projectFilePath": "G:\\03 - Projects\\ja-park\\src\\Shared\\JaPark.Shared.Presentation\\JaPark.Shared.Presentation.csproj",
   "expectedPackageFiles": [
@@ -33,10 +33,7 @@
     "C:\\Users\\Soroush\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\serilog.sinks.debug\\3.0.0\\serilog.sinks.debug.3.0.0.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512",
-    "C:\\Users\\Soroush\\.nuget\\packages\\sonaranalyzer.csharp\\10.15.0.120848\\sonaranalyzer.csharp.10.15.0.120848.nupkg.sha512",
-    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.10\\microsoft.netcore.app.ref.9.0.10.nupkg.sha512",
-    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.10\\microsoft.windowsdesktop.app.ref.9.0.10.nupkg.sha512",
-    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.10\\microsoft.aspnetcore.app.ref.9.0.10.nupkg.sha512"
+    "C:\\Users\\Soroush\\.nuget\\packages\\sonaranalyzer.csharp\\10.15.0.120848\\sonaranalyzer.csharp.10.15.0.120848.nupkg.sha512"
   ],
   "logs": []
 }

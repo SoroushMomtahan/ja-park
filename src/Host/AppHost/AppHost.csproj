@@ -9,10 +9,12 @@
 
     <ItemGroup>
         <PackageReference Include="Aspire.Hosting.AppHost"/>
+        <PackageReference Include="Aspire.Hosting.PostgreSQL" />
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\Services\Parking\JaPark.Services.Parking.Api\JaPark.Services.Parking.Api.csproj" />
+      <ProjectReference Include="..\..\Services\Parkings\JaPark.Services.Parkings.Api\JaPark.Services.Parkings.Api.csproj" />
+      <ProjectReference Include="..\..\Services\Parkings\JaPark.Services.Parkings.Migrator\JaPark.Services.Parkings.Migrator.csproj" />
     </ItemGroup>
 
 </Project>

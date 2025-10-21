@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JaPark.Services.Subscriptions.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2c2565f258b82511b013ace815ff7e41ac9624b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b5b3bba2841816b5d076f3320f28610cba14560")]
 [assembly: System.Reflection.AssemblyProductAttribute("JaPark.Services.Subscriptions.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JaPark.Services.Subscriptions.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

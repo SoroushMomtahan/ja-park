@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JaPark.Services.Promotions.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bbe819ea980c927d4822fec9a8dd0e4df57a098")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b5b3bba2841816b5d076f3320f28610cba14560")]
 [assembly: System.Reflection.AssemblyProductAttribute("JaPark.Services.Promotions.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JaPark.Services.Promotions.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

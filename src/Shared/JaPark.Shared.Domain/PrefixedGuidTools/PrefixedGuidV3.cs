@@ -29,6 +29,7 @@ public abstract record PrefixedGuidV3
 
         Value = value;
     }
+    protected PrefixedGuidV3(){}
 
     // متد استاتیک برای ایجاد یک شناسه جدید
     public static T New<T>() where T : PrefixedGuidV3
@@ -84,7 +85,7 @@ public abstract record PrefixedGuidV3
         return attribute.Prefix;
     }
     
-    // برای اینکه بتوانیم به راحتی از رشته به این نوع تبدیل کنیم (implicit conversion)
+    public static implicit operator string(PrefixedGuidV3 input) => input.Value;
 
     public static string ToString(PrefixedGuidV3 id) => id.Value;
 }

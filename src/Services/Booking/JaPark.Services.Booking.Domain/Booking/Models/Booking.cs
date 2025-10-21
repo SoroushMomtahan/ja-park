@@ -10,17 +10,16 @@ public sealed class Booking : Aggregate<BookingId>
     public DateTime LogoutAt { get; private set; }
 
 
-    private Booking(BookingId id, SpaceId spaceId, PlateNumber plateNumber)
+    private Booking(SpaceId spaceId, PlateNumber plateNumber)
     {
         SpaceId = spaceId;
         PlateNumber = plateNumber; 
     }
     public static Result<Booking> Login(
-        BookingId id, 
         SpaceId spaceId, 
         PlateNumber plateNumber)
     {
-        var booking = new Booking(id, spaceId, plateNumber)
+        var booking = new Booking(spaceId, plateNumber)
         {
             LoginAt = DateTime.Now
         };
