@@ -13,11 +13,11 @@ internal static class ParkingsExtenstion
             .WithReference(parkingsDb)
             .WaitFor(parkingsDb);
 
-        IResourceBuilder<ProjectResource> parkingsMigrator =
-            builder
-                .AddProject<JaPark_Services_Parkings_Migrator>("parkings-migrator")
-                .WithReference(parkingsDb)
-                .WithParentRelationship(parkingsApi);
+        IResourceBuilder<ProjectResource> parkingsMigrator = builder
+            .AddProject<JaPark_Services_Parkings_Migrator>("parkings-migrator")
+            .WithParentRelationship(parkingsApi)
+            .WithReference(parkingsDb)
+            .WaitFor(parkingsDb);
 
         parkingsApi
             .WithReference(parkingsMigrator)

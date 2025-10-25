@@ -278,7 +278,7 @@
         },
         "runtime": {
           "JaPark.Services.Parkings.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -292,7 +292,7 @@
         },
         "runtime": {
           "JaPark.Shared.Application.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -300,7 +300,7 @@
       "JaPark.Shared.Domain/1.0.0": {
         "runtime": {
           "JaPark.Shared.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

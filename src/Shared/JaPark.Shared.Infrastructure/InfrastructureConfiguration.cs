@@ -1,4 +1,5 @@
 ﻿using JaPark.Shared.Application.Caching;
+using JaPark.Shared.Application.EventBus;
 using JaPark.Shared.Infrastructure.Authentication;
 using JaPark.Shared.Infrastructure.Authorization;
 using JaPark.Shared.Infrastructure.Caching;
@@ -15,7 +16,9 @@ public static class InfrastructureConfiguration
 {
     public static IHostApplicationBuilder AddInfrastructureConfiguration(
         this IHostApplicationBuilder builder,
+#pragma warning disable IDE0060
         Action<IRegistrationConfigurator>[]? moduleConfigureConsumers = null)
+#pragma warning restore IDE0060
     {
         IServiceCollection services = builder.Services;
         
@@ -23,7 +26,9 @@ public static class InfrastructureConfiguration
         services.AddAuthorizationInternal();
 
         services.AddRedisCache(builder);
-        services.AddMessagingServices(moduleConfigureConsumers);
+#pragma warning disable S125
+        // services.AddMessagingServices(moduleConfigureConsumers);
+#pragma warning restore S125
         services.AddQuartzService();
         
         return builder;
@@ -41,9 +46,7 @@ public static class InfrastructureConfiguration
     {
         services.TryAddSingleton<InsertOutboxMessageInterceptor>();
         
-#pragma warning disable S125
-        // services.AddSingleton<IEventBus, EventBus.EventBus>();
-#pragma warning restore S125
+        services.AddSingleton<IEventBus, EventBus.EventBus>();
         
         services.AddMassTransit(config =>
         {

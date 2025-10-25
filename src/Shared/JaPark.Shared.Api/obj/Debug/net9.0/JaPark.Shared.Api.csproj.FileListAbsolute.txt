@@ -1,19 +1,38 @@
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\bin\Debug\net9.0\JaPark.Shared.Api.deps.json
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\bin\Debug\net9.0\JaPark.Shared.Api.dll
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\bin\Debug\net9.0\JaPark.Shared.Api.pdb
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\bin\Debug\net9.0\JaPark.Shared.Api.xml
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\bin\Debug\net9.0\ServiceDefaults.dll
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\bin\Debug\net9.0\ServiceDefaults.pdb
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\bin\Debug\net9.0\ServiceDefaults.xml
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\obj\Debug\net9.0\JaPark.Shared.Api.csproj.AssemblyReference.cache
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\obj\Debug\net9.0\JaPark.Shared.Api.GeneratedMSBuildEditorConfig.editorconfig
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\obj\Debug\net9.0\JaPark.Shared.Api.AssemblyInfoInputs.cache
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\obj\Debug\net9.0\JaPark.Shared.Api.AssemblyInfo.cs
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\obj\Debug\net9.0\JaPark.Shared.Api.csproj.CoreCompileInputs.cache
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\obj\Debug\net9.0\JaPark.Shared.Api.sourcelink.json
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\obj\Debug\net9.0\JaPark.S.F8275D76.Up2Date
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\obj\Debug\net9.0\JaPark.Shared.Api.dll
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\obj\Debug\net9.0\refint\JaPark.Shared.Api.dll
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\obj\Debug\net9.0\JaPark.Shared.Api.xml
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\obj\Debug\net9.0\JaPark.Shared.Api.pdb
-G:\03 - Projects\ja-park\src\Shared\JaPark.Shared.Api\obj\Debug\net9.0\ref\JaPark.Shared.Api.dll
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/JaPark.Shared.Api.deps.json
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/JaPark.Shared.Api.dll
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/JaPark.Shared.Api.pdb
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/JaPark.Shared.Api.xml
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/ServiceDefaults.dll
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/ServiceDefaults.pdb
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/ServiceDefaults.xml
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.csproj.AssemblyReference.cache
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.GeneratedMSBuildEditorConfig.editorconfig
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.AssemblyInfoInputs.cache
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.AssemblyInfo.cs
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.csproj.CoreCompileInputs.cache
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.sourcelink.json
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.S.F8275D76.Up2Date
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.dll
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/refint/JaPark.Shared.Api.dll
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.xml
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.pdb
+G:/03 - Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/ref/JaPark.Shared.Api.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/JaPark.Shared.Api.deps.json
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/JaPark.Shared.Api.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/JaPark.Shared.Api.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/JaPark.Shared.Api.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/ServiceDefaults.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/ServiceDefaults.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/bin/Debug/net9.0/ServiceDefaults.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.csproj.AssemblyReference.cache
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.AssemblyInfoInputs.cache
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.AssemblyInfo.cs
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.csproj.CoreCompileInputs.cache
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.sourcelink.json
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.S.F8275D76.Up2Date
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/refint/JaPark.Shared.Api.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/JaPark.Shared.Api.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/Debug/net9.0/ref/JaPark.Shared.Api.dll

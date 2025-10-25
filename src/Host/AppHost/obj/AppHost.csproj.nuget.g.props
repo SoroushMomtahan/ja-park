@@ -4,24 +4,23 @@
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
-    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Soroush\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/home/soroush/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/home/soroush/.nuget/packages/</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.14.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\Soroush\.nuget\packages\" />
-    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+    <SourceRoot Include="/home/soroush/.nuget/packages/" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets\9.0.7\buildTransitive\net8.0\Microsoft.Extensions.Configuration.UserSecrets.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets\9.0.7\buildTransitive\net8.0\Microsoft.Extensions.Configuration.UserSecrets.props')" />
-    <Import Project="$(NuGetPackageRoot)aspire.hosting.apphost\9.4.1\build\Aspire.Hosting.AppHost.props" Condition="Exists('$(NuGetPackageRoot)aspire.hosting.apphost\9.4.1\build\Aspire.Hosting.AppHost.props')" />
-    <Import Project="$(NuGetPackageRoot)aspire.dashboard.sdk.win-x64\9.4.1\buildTransitive\Aspire.Dashboard.Sdk.win-x64.props" Condition="Exists('$(NuGetPackageRoot)aspire.dashboard.sdk.win-x64\9.4.1\buildTransitive\Aspire.Dashboard.Sdk.win-x64.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets/9.0.7/buildTransitive/net8.0/Microsoft.Extensions.Configuration.UserSecrets.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets/9.0.7/buildTransitive/net8.0/Microsoft.Extensions.Configuration.UserSecrets.props')" />
+    <Import Project="$(NuGetPackageRoot)aspire.hosting.apphost/9.4.1/build/Aspire.Hosting.AppHost.props" Condition="Exists('$(NuGetPackageRoot)aspire.hosting.apphost/9.4.1/build/Aspire.Hosting.AppHost.props')" />
+    <Import Project="$(NuGetPackageRoot)aspire.dashboard.sdk.linux-x64/9.4.1/buildTransitive/Aspire.Dashboard.Sdk.linux-x64.props" Condition="Exists('$(NuGetPackageRoot)aspire.dashboard.sdk.linux-x64/9.4.1/buildTransitive/Aspire.Dashboard.Sdk.linux-x64.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgSonarAnalyzer_CSharp Condition=" '$(PkgSonarAnalyzer_CSharp)' == '' ">C:\Users\Soroush\.nuget\packages\sonaranalyzer.csharp\10.15.0.120848</PkgSonarAnalyzer_CSharp>
-    <PkgGrpc_Tools Condition=" '$(PkgGrpc_Tools)' == '' ">C:\Users\Soroush\.nuget\packages\grpc.tools\2.72.0</PkgGrpc_Tools>
-    <PkgAspire_Hosting_Orchestration_win-x64 Condition=" '$(PkgAspire_Hosting_Orchestration_win-x64)' == '' ">C:\Users\Soroush\.nuget\packages\aspire.hosting.orchestration.win-x64\9.4.1</PkgAspire_Hosting_Orchestration_win-x64>
-    <PkgAspire_Dashboard_Sdk_win-x64 Condition=" '$(PkgAspire_Dashboard_Sdk_win-x64)' == '' ">C:\Users\Soroush\.nuget\packages\aspire.dashboard.sdk.win-x64\9.4.1</PkgAspire_Dashboard_Sdk_win-x64>
+    <PkgSonarAnalyzer_CSharp Condition=" '$(PkgSonarAnalyzer_CSharp)' == '' ">/home/soroush/.nuget/packages/sonaranalyzer.csharp/10.15.0.120848</PkgSonarAnalyzer_CSharp>
+    <PkgGrpc_Tools Condition=" '$(PkgGrpc_Tools)' == '' ">/home/soroush/.nuget/packages/grpc.tools/2.72.0</PkgGrpc_Tools>
+    <PkgAspire_Hosting_Orchestration_linux-x64 Condition=" '$(PkgAspire_Hosting_Orchestration_linux-x64)' == '' ">/home/soroush/.nuget/packages/aspire.hosting.orchestration.linux-x64/9.4.1</PkgAspire_Hosting_Orchestration_linux-x64>
+    <PkgAspire_Dashboard_Sdk_linux-x64 Condition=" '$(PkgAspire_Dashboard_Sdk_linux-x64)' == '' ">/home/soroush/.nuget/packages/aspire.dashboard.sdk.linux-x64/9.4.1</PkgAspire_Dashboard_Sdk_linux-x64>
   </PropertyGroup>
 </Project>

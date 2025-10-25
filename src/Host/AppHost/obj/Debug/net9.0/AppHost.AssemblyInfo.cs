@@ -11,21 +11,21 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("d12fd221-cfaf-4db2-9f0d-6bd8f8bd7c6b")]
-[assembly: System.Reflection.AssemblyMetadata("dcpclipath", ("C:\\Users\\Soroush\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.4.1\\tools" +
-    "\\dcp.exe"))]
-[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", ("C:\\Users\\Soroush\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.4.1\\tools" +
-    "\\ext\\"))]
-[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", ("C:\\Users\\Soroush\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.4.1\\tools" +
-    "\\ext\\bin\\"))]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "G:\\03 - Projects\\ja-park\\src\\Host\\AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("dcpclipath", ("/home/soroush/.nuget/packages/aspire.hosting.orchestration.linux-x64/9.4.1/tools/" +
+    "dcp"))]
+[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", ("/home/soroush/.nuget/packages/aspire.hosting.orchestration.linux-x64/9.4.1/tools/" +
+    "ext/"))]
+[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", ("/home/soroush/.nuget/packages/aspire.hosting.orchestration.linux-x64/9.4.1/tools/" +
+    "ext/bin/"))]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Host/AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "AppHost.csproj")]
-[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", ("C:\\Users\\Soroush\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.4.1\\tools\\Aspire." +
-    "Dashboard.exe"))]
-[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "G:\\03 - Projects\\ja-park\\src\\Host\\AppHost\\obj\\")]
+[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", ("/home/soroush/.nuget/packages/aspire.dashboard.sdk.linux-x64/9.4.1/tools/Aspire.D" +
+    "ashboard"))]
+[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Host/AppHost/obj/")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b5b3bba2841816b5d076f3320f28610cba14560")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2764fb8be33f5f7980fea19e9f24ffba21d2e394")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

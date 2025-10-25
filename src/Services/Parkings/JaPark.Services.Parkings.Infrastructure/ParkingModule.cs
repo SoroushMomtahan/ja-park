@@ -24,4 +24,9 @@ public static class ParkingModule
         builder.Services.AddScoped<IParkingRepository, ParkingRepository>();
         builder.Services.AddScoped<IUnitOfWork>(sp => sp.GetRequiredService<ParkingsDbContext>());
     }
+
+    public static void AddDbForMigration(this IHostApplicationBuilder builder, string connectionString)
+    {
+        builder.AddNpgsqlDbContext<ParkingsDbContext>(connectionString);
+    }
 }

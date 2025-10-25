@@ -10,5 +10,5 @@ public class AppHost
 #pragma warning restore CS8981
 {
     private AppHost() { }
-    public static string ProjectPath => """G:\03 - Projects\ja-park\src\Host\AppHost""";
+    public static string ProjectPath => """/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Host/AppHost""";
 }

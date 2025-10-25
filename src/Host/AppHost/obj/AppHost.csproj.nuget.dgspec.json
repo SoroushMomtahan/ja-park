@@ -1,32 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "G:\\03 - Projects\\ja-park\\src\\Host\\AppHost\\AppHost.csproj": {}
+    "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Host/AppHost/AppHost.csproj": {}
   },
   "projects": {
-    "G:\\03 - Projects\\ja-park\\src\\Host\\AppHost\\AppHost.csproj": {
+    "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Host/AppHost/AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\03 - Projects\\ja-park\\src\\Host\\AppHost\\AppHost.csproj",
+        "projectUniqueName": "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Host/AppHost/AppHost.csproj",
         "projectName": "AppHost",
-        "projectPath": "G:\\03 - Projects\\ja-park\\src\\Host\\AppHost\\AppHost.csproj",
-        "packagesPath": "C:\\Users\\Soroush\\.nuget\\packages\\",
-        "outputPath": "G:\\03 - Projects\\ja-park\\src\\Host\\AppHost\\obj\\",
+        "projectPath": "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Host/AppHost/AppHost.csproj",
+        "packagesPath": "/home/soroush/.nuget/packages/",
+        "outputPath": "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Host/AppHost/obj/",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Soroush\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/soroush/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,13 +41,13 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Aspire.Dashboard.Sdk.win-x64": {
+            "Aspire.Dashboard.Sdk.linux-x64": {
               "target": "Package",
               "version": "[9.4.1, )",
               "autoReferenced": true
@@ -62,7 +57,7 @@
               "version": "[9.4.1, )",
               "versionCentrallyManaged": true
             },
-            "Aspire.Hosting.Orchestration.win-x64": {
+            "Aspire.Hosting.Orchestration.linux-x64": {
               "target": "Package",
               "version": "[9.4.1, )",
               "autoReferenced": true
@@ -128,7 +123,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

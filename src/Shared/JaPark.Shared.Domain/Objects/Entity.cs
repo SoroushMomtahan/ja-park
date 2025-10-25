@@ -9,7 +9,7 @@ public abstract class Entity<T> : Entity where T : PrefixedGuidV3
 
 public abstract class Entity
 {
-    public DateTime CreatedAt { get; protected set; } = DateTime.Now;
+    public DateTime CreatedAt { get; protected set; } = DateTime.UtcNow;
     public DateTime UpdatedAt { get; protected set; }
     public DateTime DeletedAt { get; protected set; }
 }

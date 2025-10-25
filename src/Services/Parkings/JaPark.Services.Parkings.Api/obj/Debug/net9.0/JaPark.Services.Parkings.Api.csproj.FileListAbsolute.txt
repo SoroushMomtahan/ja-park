@@ -1,456 +1,724 @@
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\appsettings.Development.json
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\appsettings.json
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.staticwebassets.endpoints.json
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.exe
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.deps.json
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.runtimeconfig.json
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.pdb
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.xml
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Aspire.Npgsql.EntityFrameworkCore.PostgreSQL.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Aspire.StackExchange.Redis.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Aspire.StackExchange.Redis.DistributedCaching.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\HealthChecks.Redis.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Azure.Core.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Azure.Identity.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\FluentValidation.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\MassTransit.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\MassTransit.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\MediatR.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\MediatR.Contracts.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.AmbientMetadata.Application.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Compliance.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.Diagnostics.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.Resilience.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Configuration.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.ObjectPool.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Resilience.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Telemetry.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Telemetry.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Newtonsoft.Json.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Npgsql.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Npgsql.DependencyInjection.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Npgsql.OpenTelemetry.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Api.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Polly.Core.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Polly.Extensions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Polly.RateLimiting.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Quartz.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Quartz.Extensions.DependencyInjection.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Quartz.Extensions.Hosting.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Scrutor.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.AspNetCore.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Sinks.Console.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Sinks.File.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\StackExchange.Redis.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.ClientModel.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Drawing.Common.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Memory.Data.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Security.Permissions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Application.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Domain.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Infrastructure.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Presentation.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Api.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Application.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Domain.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Infrastructure.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Presentation.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ServiceDefaults.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ServiceDefaults.pdb
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ServiceDefaults.xml
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Api.pdb
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Api.xml
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Infrastructure.pdb
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Infrastructure.xml
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Application.pdb
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Application.xml
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Domain.pdb
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Domain.xml
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Presentation.pdb
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Presentation.xml
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Application.pdb
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Application.xml
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Domain.pdb
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Domain.xml
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Infrastructure.pdb
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Infrastructure.xml
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Presentation.pdb
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Presentation.xml
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.csproj.AssemblyReference.cache
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.GeneratedMSBuildEditorConfig.editorconfig
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.AssemblyInfoInputs.cache
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.AssemblyInfo.cs
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.csproj.CoreCompileInputs.cache
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.MvcApplicationPartsAssemblyInfo.cs
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.MvcApplicationPartsAssemblyInfo.cache
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.sourcelink.json
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\scopedcss\bundle\JaPark.Services.Parkings.Api.styles.css
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\staticwebassets.build.json
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\staticwebassets.development.json
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.S.922FDA70.Up2Date
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\refint\JaPark.Services.Parkings.Api.dll
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.xml
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.pdb
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.genruntimeconfig.cache
-G:\03 - Projects\ja-park\src\Services\Parking\JaPark.Services.Parkings.Api\obj\Debug\net9.0\ref\JaPark.Services.Parkings.Api.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\appsettings.Development.json
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\appsettings.json
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.staticwebassets.endpoints.json
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.exe
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.deps.json
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.runtimeconfig.json
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.pdb
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Api.xml
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Aspire.Npgsql.EntityFrameworkCore.PostgreSQL.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Aspire.StackExchange.Redis.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Aspire.StackExchange.Redis.DistributedCaching.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\HealthChecks.Redis.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Azure.Core.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Azure.Identity.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\FluentValidation.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\MassTransit.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\MassTransit.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\MediatR.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\MediatR.Contracts.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.AmbientMetadata.Application.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Compliance.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.Diagnostics.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.Resilience.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Configuration.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.ObjectPool.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Resilience.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Telemetry.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Extensions.Telemetry.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Newtonsoft.Json.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Npgsql.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Npgsql.DependencyInjection.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Npgsql.OpenTelemetry.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Api.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Extensions.Hosting.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Instrumentation.AspNetCore.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Http.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\OpenTelemetry.Instrumentation.Runtime.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Polly.Core.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Polly.Extensions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Polly.RateLimiting.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Quartz.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Quartz.Extensions.DependencyInjection.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Quartz.Extensions.Hosting.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Scrutor.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.AspNetCore.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Sinks.Console.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Serilog.Sinks.File.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\StackExchange.Redis.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.ClientModel.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Drawing.Common.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Memory.Data.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Security.Permissions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Application.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Domain.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Infrastructure.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Presentation.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Api.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Application.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Domain.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Infrastructure.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Presentation.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ServiceDefaults.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ServiceDefaults.pdb
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ServiceDefaults.xml
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Api.pdb
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Api.xml
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Infrastructure.pdb
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Infrastructure.xml
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Application.pdb
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Application.xml
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Domain.pdb
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Domain.xml
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Presentation.pdb
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Services.Parkings.Presentation.xml
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Application.pdb
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Application.xml
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Domain.pdb
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Domain.xml
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Infrastructure.pdb
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Infrastructure.xml
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Presentation.pdb
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\JaPark.Shared.Presentation.xml
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.csproj.AssemblyReference.cache
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.GeneratedMSBuildEditorConfig.editorconfig
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.AssemblyInfoInputs.cache
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.AssemblyInfo.cs
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.csproj.CoreCompileInputs.cache
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.MvcApplicationPartsAssemblyInfo.cs
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.MvcApplicationPartsAssemblyInfo.cache
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.sourcelink.json
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\scopedcss\bundle\JaPark.Services.Parkings.Api.styles.css
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\staticwebassets.build.json
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\staticwebassets.development.json
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.S.922FDA70.Up2Date
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\refint\JaPark.Services.Parkings.Api.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.xml
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.pdb
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\JaPark.Services.Parkings.Api.genruntimeconfig.cache
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\obj\Debug\net9.0\ref\JaPark.Services.Parkings.Api.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Humanizer.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.CodeDom.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Composition.Convention.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Formats.Asn1.dll
-G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\bin\Debug\net9.0\System.Text.Json.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/appsettings.Development.json
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/appsettings.json
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.staticwebassets.endpoints.json
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.exe
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.deps.json
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.runtimeconfig.json
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.pdb
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.xml
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Aspire.Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Aspire.StackExchange.Redis.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Aspire.StackExchange.Redis.DistributedCaching.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/HealthChecks.Redis.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Azure.Core.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Azure.Identity.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/FluentValidation.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/FluentValidation.DependencyInjectionExtensions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/MassTransit.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/MassTransit.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/MediatR.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/MediatR.Contracts.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.AspNetCore.JsonPatch.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.AmbientMetadata.Application.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Compliance.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Http.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Http.Diagnostics.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Http.Resilience.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Logging.Configuration.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.ObjectPool.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Resilience.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.ServiceDiscovery.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Telemetry.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Telemetry.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Newtonsoft.Json.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Newtonsoft.Json.Bson.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Npgsql.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Npgsql.DependencyInjection.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Npgsql.OpenTelemetry.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Api.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Api.ProviderBuilderExtensions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Extensions.Hosting.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Instrumentation.AspNetCore.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Instrumentation.Http.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Instrumentation.Runtime.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Pipelines.Sockets.Unofficial.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Polly.Core.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Polly.Extensions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Polly.RateLimiting.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Quartz.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Quartz.Extensions.DependencyInjection.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Quartz.Extensions.Hosting.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Scrutor.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.AspNetCore.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Extensions.Logging.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Formatting.Compact.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Settings.Configuration.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Sinks.Console.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Sinks.File.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/StackExchange.Redis.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.ClientModel.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Drawing.Common.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Memory.Data.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Runtime.Caching.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Security.Permissions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Windows.Extensions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Application.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Domain.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Infrastructure.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Presentation.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Api.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Application.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Domain.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Infrastructure.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Presentation.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ServiceDefaults.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ServiceDefaults.pdb
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ServiceDefaults.xml
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Api.pdb
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Api.xml
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Infrastructure.pdb
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Infrastructure.xml
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Application.pdb
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Application.xml
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Domain.pdb
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Domain.xml
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Presentation.pdb
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Presentation.xml
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Application.pdb
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Application.xml
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Domain.pdb
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Domain.xml
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Infrastructure.pdb
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Infrastructure.xml
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Presentation.pdb
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Presentation.xml
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.csproj.AssemblyReference.cache
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/rpswa.dswa.cache.json
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.GeneratedMSBuildEditorConfig.editorconfig
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.AssemblyInfoInputs.cache
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.AssemblyInfo.cs
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.csproj.CoreCompileInputs.cache
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.MvcApplicationPartsAssemblyInfo.cs
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.MvcApplicationPartsAssemblyInfo.cache
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.sourcelink.json
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/rjimswa.dswa.cache.json
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/scopedcss/bundle/JaPark.Services.Parkings.Api.styles.css
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets.build.json
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets.build.json.cache
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets.development.json
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.S.922FDA70.Up2Date
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/refint/JaPark.Services.Parkings.Api.dll
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.xml
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.pdb
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.genruntimeconfig.cache
+G:/03 - Projects/ja-park/src/Services/Parking/JaPark.Services.Parkings.Api/obj/Debug/net9.0/ref/JaPark.Services.Parkings.Api.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/appsettings.Development.json
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/appsettings.json
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.staticwebassets.endpoints.json
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.exe
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.deps.json
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.runtimeconfig.json
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.pdb
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.xml
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Aspire.Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Aspire.StackExchange.Redis.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Aspire.StackExchange.Redis.DistributedCaching.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/HealthChecks.Redis.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Azure.Core.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Azure.Identity.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/FluentValidation.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/FluentValidation.DependencyInjectionExtensions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/MassTransit.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/MassTransit.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/MediatR.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/MediatR.Contracts.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.AspNetCore.JsonPatch.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.AmbientMetadata.Application.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Compliance.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Http.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Http.Diagnostics.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Http.Resilience.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Logging.Configuration.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.ObjectPool.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Resilience.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.ServiceDiscovery.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Telemetry.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Telemetry.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Newtonsoft.Json.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Newtonsoft.Json.Bson.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Npgsql.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Npgsql.DependencyInjection.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Npgsql.OpenTelemetry.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Api.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Api.ProviderBuilderExtensions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Extensions.Hosting.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Instrumentation.AspNetCore.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Instrumentation.Http.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Instrumentation.Runtime.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Pipelines.Sockets.Unofficial.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Polly.Core.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Polly.Extensions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Polly.RateLimiting.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Quartz.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Quartz.Extensions.DependencyInjection.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Quartz.Extensions.Hosting.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Scrutor.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.AspNetCore.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Extensions.Logging.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Formatting.Compact.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Settings.Configuration.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Sinks.Console.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Sinks.File.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/StackExchange.Redis.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.ClientModel.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Drawing.Common.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Memory.Data.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Runtime.Caching.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Security.Permissions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Windows.Extensions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Application.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Domain.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Infrastructure.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Presentation.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Api.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Application.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Domain.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Infrastructure.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Presentation.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ServiceDefaults.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ServiceDefaults.pdb
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ServiceDefaults.xml
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Api.pdb
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Api.xml
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Infrastructure.pdb
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Infrastructure.xml
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Application.pdb
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Application.xml
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Domain.pdb
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Domain.xml
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Presentation.pdb
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Presentation.xml
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Application.pdb
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Application.xml
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Domain.pdb
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Domain.xml
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Infrastructure.pdb
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Infrastructure.xml
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Presentation.pdb
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Presentation.xml
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.csproj.AssemblyReference.cache
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/rpswa.dswa.cache.json
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.GeneratedMSBuildEditorConfig.editorconfig
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.AssemblyInfoInputs.cache
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.AssemblyInfo.cs
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.csproj.CoreCompileInputs.cache
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.MvcApplicationPartsAssemblyInfo.cs
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.MvcApplicationPartsAssemblyInfo.cache
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.sourcelink.json
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/rjimswa.dswa.cache.json
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/scopedcss/bundle/JaPark.Services.Parkings.Api.styles.css
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets.build.json
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets.build.json.cache
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets.development.json
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.S.922FDA70.Up2Date
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/refint/JaPark.Services.Parkings.Api.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.xml
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.pdb
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.genruntimeconfig.cache
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/ref/JaPark.Services.Parkings.Api.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Humanizer.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Mono.TextTemplating.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.CodeDom.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Composition.Convention.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Composition.Hosting.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Composition.Runtime.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Composition.TypedParts.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Formats.Asn1.dll
+G:/03 - Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Text.Json.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/appsettings.Development.json
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/appsettings.json
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.staticwebassets.endpoints.json
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.deps.json
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.runtimeconfig.json
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Api.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Aspire.Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Aspire.StackExchange.Redis.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Aspire.StackExchange.Redis.DistributedCaching.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/HealthChecks.Redis.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Azure.Core.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Azure.Identity.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/FluentValidation.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Humanizer.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/MassTransit.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/MassTransit.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/MediatR.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/MediatR.Contracts.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.AmbientMetadata.Application.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Compliance.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Http.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Http.Diagnostics.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Http.Resilience.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Logging.Configuration.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.ObjectPool.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Resilience.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.ServiceDiscovery.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Telemetry.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Extensions.Telemetry.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Newtonsoft.Json.Bson.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Npgsql.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Npgsql.DependencyInjection.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Npgsql.OpenTelemetry.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Api.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Api.ProviderBuilderExtensions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Extensions.Hosting.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Instrumentation.AspNetCore.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Instrumentation.Http.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/OpenTelemetry.Instrumentation.Runtime.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Pipelines.Sockets.Unofficial.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Polly.Core.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Polly.Extensions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Polly.RateLimiting.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Quartz.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Quartz.Extensions.DependencyInjection.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Quartz.Extensions.Hosting.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Scrutor.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.AspNetCore.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Extensions.Logging.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Formatting.Compact.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Settings.Configuration.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Sinks.Console.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Serilog.Sinks.File.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/StackExchange.Redis.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.ClientModel.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.CodeDom.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Drawing.Common.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Memory.Data.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Runtime.Caching.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Security.Permissions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/System.Windows.Extensions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Application.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Domain.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Infrastructure.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Presentation.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Api.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Application.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Domain.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Infrastructure.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Presentation.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ServiceDefaults.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ServiceDefaults.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/ServiceDefaults.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Api.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Api.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Infrastructure.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Infrastructure.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Application.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Application.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Domain.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Domain.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Presentation.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Services.Parkings.Presentation.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Application.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Application.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Domain.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Domain.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Infrastructure.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Infrastructure.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Presentation.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/bin/Debug/net9.0/JaPark.Shared.Presentation.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.csproj.AssemblyReference.cache
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.AssemblyInfoInputs.cache
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.AssemblyInfo.cs
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.csproj.CoreCompileInputs.cache
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.sourcelink.json
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/scopedcss/bundle/JaPark.Services.Parkings.Api.styles.css
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets.build.json
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets.development.json
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets/msbuild.JaPark.Services.Parkings.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets/msbuild.JaPark.Services.Parkings.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets/msbuild.build.JaPark.Services.Parkings.Api.props
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.JaPark.Services.Parkings.Api.props
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.JaPark.Services.Parkings.Api.props
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/staticwebassets.pack.json
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.S.922FDA70.Up2Date
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/refint/JaPark.Services.Parkings.Api.dll
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.xml
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.pdb
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/JaPark.Services.Parkings.Api.genruntimeconfig.cache
+/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/obj/Debug/net9.0/ref/JaPark.Services.Parkings.Api.dll

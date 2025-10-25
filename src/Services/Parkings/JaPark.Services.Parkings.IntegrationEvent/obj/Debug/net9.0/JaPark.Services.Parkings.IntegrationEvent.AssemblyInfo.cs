@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JaPark.Services.Parkings.IntegrationEvent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b5b3bba2841816b5d076f3320f28610cba14560")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2764fb8be33f5f7980fea19e9f24ffba21d2e394")]
 [assembly: System.Reflection.AssemblyProductAttribute("JaPark.Services.Parkings.IntegrationEvent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JaPark.Services.Parkings.IntegrationEvent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Bc6sJ4tWvPE=",
+  "dgSpecHash": "gZWdm+g6I3A=",
   "success": true,
-  "projectFilePath": "G:\\03 - Projects\\ja-park\\src\\Services\\Parkings\\JaPark.Services.Parkings.IntegrationEvent\\JaPark.Services.Parkings.IntegrationEvent.csproj",
+  "projectFilePath": "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.IntegrationEvent/JaPark.Services.Parkings.IntegrationEvent.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Soroush\\.nuget\\packages\\sonaranalyzer.csharp\\10.15.0.120848\\sonaranalyzer.csharp.10.15.0.120848.nupkg.sha512"
+    "/home/soroush/.nuget/packages/sonaranalyzer.csharp/10.15.0.120848/sonaranalyzer.csharp.10.15.0.120848.nupkg.sha512"
   ],
   "logs": []
 }

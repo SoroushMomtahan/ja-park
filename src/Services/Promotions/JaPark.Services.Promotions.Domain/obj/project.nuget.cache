@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RHUCyOwQhcM=",
+  "dgSpecHash": "qIl6fIPF3EI=",
   "success": true,
-  "projectFilePath": "G:\\03 - Projects\\ja-park\\src\\Services\\Promotions\\JaPark.Services.Promotions.Domain\\JaPark.Services.Promotions.Domain.csproj",
+  "projectFilePath": "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Promotions/JaPark.Services.Promotions.Domain/JaPark.Services.Promotions.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Soroush\\.nuget\\packages\\sonaranalyzer.csharp\\10.15.0.120848\\sonaranalyzer.csharp.10.15.0.120848.nupkg.sha512"
+    "/home/soroush/.nuget/packages/sonaranalyzer.csharp/10.15.0.120848/sonaranalyzer.csharp.10.15.0.120848.nupkg.sha512"
   ],
   "logs": []
 }

@@ -2715,40 +2715,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Soroush\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/soroush/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\03 - Projects\\ja-park\\src\\Shared\\JaPark.Shared.Api\\JaPark.Shared.Api.csproj",
+      "projectUniqueName": "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/JaPark.Shared.Api.csproj",
       "projectName": "JaPark.Shared.Api",
-      "projectPath": "G:\\03 - Projects\\ja-park\\src\\Shared\\JaPark.Shared.Api\\JaPark.Shared.Api.csproj",
-      "packagesPath": "C:\\Users\\Soroush\\.nuget\\packages\\",
-      "outputPath": "G:\\03 - Projects\\ja-park\\src\\Shared\\JaPark.Shared.Api\\obj\\",
+      "projectPath": "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/JaPark.Shared.Api.csproj",
+      "packagesPath": "/home/soroush/.nuget/packages/",
+      "outputPath": "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Shared/JaPark.Shared.Api/obj/",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Soroush\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/soroush/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "G:\\03 - Projects\\ja-park\\src\\Host\\ServiceDefaults\\ServiceDefaults.csproj": {
-              "projectPath": "G:\\03 - Projects\\ja-park\\src\\Host\\ServiceDefaults\\ServiceDefaults.csproj"
+            "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Host/ServiceDefaults/ServiceDefaults.csproj": {
+              "projectPath": "/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Host/ServiceDefaults/ServiceDefaults.csproj"
             }
           }
         }
@@ -2764,7 +2758,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -2841,7 +2835,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

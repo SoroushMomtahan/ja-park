@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/JaPark.Services.Parkings.Api.props" />
+</Project>

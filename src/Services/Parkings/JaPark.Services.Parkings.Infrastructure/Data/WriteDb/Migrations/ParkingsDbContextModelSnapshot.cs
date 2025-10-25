@@ -50,7 +50,8 @@ namespace JaPark.Services.Parkings.Infrastructure.Data.WriteDb.Migrations
 
                             b1.Property<string>("Value")
                                 .IsRequired()
-                                .HasColumnType("text");
+                                .HasColumnType("text")
+                                .HasColumnName("Name");
                         });
 
                     b.ComplexProperty<Dictionary<string, object>>("Subscription", "JaPark.Services.Parkings.Domain.CarParts.Models.Parking.Subscription#Subscription", b1 =>

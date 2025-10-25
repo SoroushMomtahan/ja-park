@@ -1,6 +1,4 @@
-#pragma warning disable IDE0005
 using AppHost.Extensions;
-#pragma warning restore IDE0005
 
 IDistributedApplicationBuilder builder = DistributedApplication.CreateBuilder(args);
 

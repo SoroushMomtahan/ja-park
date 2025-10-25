@@ -9,5 +9,5 @@ namespace Projects;
 public class JaPark_Services_Parkings_Api : global::Aspire.Hosting.IProjectMetadata
 #pragma warning restore CS8981
 {
-    public string ProjectPath => """G:\03 - Projects\ja-park\src\Services\Parkings\JaPark.Services.Parkings.Api\JaPark.Services.Parkings.Api.csproj""";
+    public string ProjectPath => """/home/soroush/Documents/Code/Dotnet/Projects/ja-park/src/Services/Parkings/JaPark.Services.Parkings.Api/JaPark.Services.Parkings.Api.csproj""";
 }

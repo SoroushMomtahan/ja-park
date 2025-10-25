@@ -16,5 +16,17 @@
         <member name="M:JaPark.Services.Parkings.Infrastructure.Data.WriteDb.Migrations.Initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
         </member>
+        <member name="T:JaPark.Services.Parkings.Infrastructure.Migrations.EditNameColumn">
+            <inheritdoc />
+        </member>
+        <member name="M:JaPark.Services.Parkings.Infrastructure.Migrations.EditNameColumn.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:JaPark.Services.Parkings.Infrastructure.Migrations.EditNameColumn.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:JaPark.Services.Parkings.Infrastructure.Migrations.EditNameColumn.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
     </members>
 </doc>

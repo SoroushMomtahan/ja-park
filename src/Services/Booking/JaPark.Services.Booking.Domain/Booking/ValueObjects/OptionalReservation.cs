@@ -14,8 +14,8 @@ public record Reservation
 
     public static Result<Reservation> From(DateTime reserveUntil)
     {
-        if (reserveUntil <= DateTime.Now || 
-            reserveUntil > DateTime.Now.AddMinutes(MaxReservationMinutes))
+        if (reserveUntil <= DateTime.UtcNow || 
+            reserveUntil > DateTime.UtcNow.AddMinutes(MaxReservationMinutes))
         {
             return Result.Failure<Reservation>(BookingErrors.InvalidReservationUntilTime);
         }
